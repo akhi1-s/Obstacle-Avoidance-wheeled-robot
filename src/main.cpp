@@ -1,13 +1,4 @@
-/**
- * @file main.cpp
- * @author Vaishanth Ramaraj, Pranav Limbekar, Rohit M Patil
- * @brief Final project for ENPM809Y
- * @version 0.1
- * @date 2021-12-15
- * 
- * @copyright Copyright (c) 2050
- * 
- */
+
 #include <actionlib/client/simple_action_client.h>
 #include <fiducial_msgs/FiducialTransformArray.h>
 #include <geometry_msgs/Twist.h>  
